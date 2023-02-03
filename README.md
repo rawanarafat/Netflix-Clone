@@ -1,3 +1,7 @@
+![CleanShot 2023-02-03 at 14 30 50](https://user-images.githubusercontent.com/35701616/216692171-4a5b6dda-13c0-42d6-99ce-0edbcc436873.png)
+![CleanShot 2023-02-03 at 14 31 04](https://user-images.githubusercontent.com/35701616/216692187-c19efdcb-6973-458a-b6d2-69408d14f46c.png)
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
